@@ -1,0 +1,22 @@
+{
+  "name": "redux-counter-app-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howtomakeaturn/redux-counter-app-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howtomakeaturn/redux-counter-app-sample/issues"
+  },
+  "homepage": "https://github.com/howtomakeaturn/redux-counter-app-sample#readme",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
